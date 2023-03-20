@@ -1,0 +1,15 @@
+{
+  "name": "th3",
+  "version": "1.0.0",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ps": "^1.0.0",
+    "qs": "^6.11.1"
+  },
+  "description": ""
+}
